@@ -1,0 +1,3 @@
+[run]
+include = cuentas/*
+omit = *migrations*
